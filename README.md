@@ -15,7 +15,7 @@
   <br>
   🎓 Atualmente sou estudante da Labenu <img width="15" src="imagens/53058090.png"> no curso de Desenvolvedor(a) Full-Stack
   <br>
-  💻 Descobri que codar é minha paixão. Busco sempre aprimorar e buscar melhorias (tanto técnicas, quanto pessoal)
+  💻 Descobri que codar é minha paixão. Aprimorar minhas soft e hard skills é minha meta para me tornar uma ótima profissional
   <br>
   📚 Atualmente estou aprendendo, com mais quatro colegas, a construir um clone do UberEats (estará disponível aqui em breve)
   <br>
@@ -36,4 +36,4 @@
 <hr>
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=435&lines=Em+constru%C3%A7%C3%A3o..." alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A0%EF%B8%8F+Em+constru%C3%A7%C3%A3o...+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" /></a></h1>
