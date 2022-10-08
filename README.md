@@ -35,11 +35,11 @@
 </p>
 <hr>
 <div align="center">
-    <h2>My github stats ⚙</h2>
-<a href="https://github.com/carolavila-bit">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolavila-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <h2>Meu Stats no Github</h2>
+<a href="https://github.com/avilacarol-bit">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avilacarol-bit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmotta95&layout=compact&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacarol-bit&layout=compact&theme=dracula">
 </a>
 </div>
 
