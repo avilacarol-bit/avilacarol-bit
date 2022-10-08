@@ -34,6 +34,12 @@
   <code><img title="Visual Studio Code" height="25" src="imagens/vscode.png"></code>
 </p>
 <hr>
-<h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
+<div align="center">
+    <h2>My github stats ⚙</h2>
+<a href="https://github.com/carolavila-bit">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmotta95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmotta95&layout=compact&theme=dracula">
+</a>
+</div>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&center=true&vCenter=true&width=435&lines=%E2%9A%A0%EF%B8%8F+Em+constru%C3%A7%C3%A3o...+%E2%9A%A0%EF%B8%8F" alt="Typing SVG" /></a></h1>
