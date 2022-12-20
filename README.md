@@ -4,9 +4,7 @@
   <code>
     <a href=https://www.linkedin.com/in/carolineadb2000/" title="LinkedIn Profile"><img width="20" src="imagens/linkedin.svg"> LinkedIn</a>
   </code>
-  <code>
-    <a href="https://www.instagram.com/avila_carool/" title="Instagram Profile"><img width="20" src="imagens/instagram.svg"> Instagram</a>
-  </code>
+ 
 </h5>
 
 <p align="center">
