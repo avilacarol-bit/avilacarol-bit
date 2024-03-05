@@ -5,14 +5,13 @@
 </h5>
 
 <p align="center">
-  Me chamo Caroline, sou desenvolvedora Front-end Jr pronta para ingressar no mercado de trabalho tecnológico. 
+  Me chamo Caroline, desenvolvedora full-stack, data science e técnica em redes. 
   <br>
   <br>
-  🎓 Atualmente sou estudante da Labenu <img width="15" src="imagens/53058090.png"> no curso de Desenvolvedor(a) Full-Stack
+  🎓 Graduanda em Engenharia de Software pela UniCesumar e com certificados em redes de computadores, ciências de dados e proteção de dados.
+
   <br>
-  💻 Descobri que codar é minha paixão. Aprimorar minhas soft e hard skills é minha meta para me tornar uma ótima profissional
-  <br>
-  📚 Atualmente estou refatorando meu projeto Pokedéx para que o código se torne limpo e efetivo. A primeira versão está disponível abaixo.
+  📚 Atualmente estou atuando como técnica em redes e em desenvolvimento para ciências de dados.
   <br>
   📫 Entre em contato comigo aqui: <A HREF="mailto:caroline.diasbento@gmail.com?CC=caroline.diasbento@gmail.com&BCC=caroline.diasbento@gmail.com&Subject=Contato%20via%20GitHub">caroline.diasbento@gmail.com</A>
 </p>
